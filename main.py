@@ -49,24 +49,13 @@ class TestUrbanRoutes:
     def test_order_2_ice_creams(self):
         # Add in S8
         print("Function created for order 2 ice creams")
-        pass
-
-    def test_car_search_model_appears(self):
-        # Add in S8
-        print("Function created for car search model appears")
-        pass
-
-    def test_order_2_ice_creams(self):
-        # Add in S8
-        print("Function created for order 2 ice creams")
-
         # Loop to simulate ordering 2 ice creams
-        for i in range(2):
+        number_of_ice_creams = 2
+        for i in range(number_of_ice_creams):
             # Add in S8
             pass
 
     def test_car_search_model_appears(self):
         # Add in S8
         print("Function created for car search model appears")
-
-    pass
+        pass
